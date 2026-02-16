@@ -15,7 +15,7 @@ ESP32-based smart lamp that displays real-time weather conditions through dynami
   - ❄️ Snow - White snowflakes falling
   - 🌫️ Fog - Misty grey gradient waves
   - 💨 Wind - Fast-moving white/cyan streaks
-  - 🟠 Amber Alert - Solid amber warning color
+  - 🟠 Amber Light - Solid amber lamp
 - **Apple HomeKit Integration**: Control via Home app (on/off, brightness)
 - **Manual Control**: Physical button for power toggle
 - **Auto-updates**: Weather refreshes every 10 minutes
